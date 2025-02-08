@@ -11,3 +11,7 @@
   
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=issac1102)](https://solved.ac/issac1102)
+
+- **git status**
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=issac1102&show_icons=true&theme=radical)
