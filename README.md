@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning **Machine Learning, AI**
+- 🌱 I’m currently learning **Machine Learning, Data Science, AI**
 - 🏫 I'm major in **Mathematics, Computer Science**
 
   
