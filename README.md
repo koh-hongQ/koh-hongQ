@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 🔭 수학과/컴퓨터공학과 학생이에요.
 🌱 I’m currently learning Mathematics, Machine Learning, AI
-![Baekjoon Tier](https://github-readme-badge.vercel.app/api/tiers?id=본인_백준_아이디&theme=default)
+![Baekjoon Tier](https://github-readme-badge.vercel.app/api/tiers?id=issac1102&theme=default)
 
