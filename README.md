@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🌱 I’m currently learning **Linear algebra, Mathematical Analysis, Machine Learning, AI**
-- 🏫 I'm major in **Mathematics, Computer Science**
+- 🏫 I'm major in **Mathematics**
 
 # Tech Stack
 <div align="center">
