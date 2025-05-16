@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning **Linear algebra, Mathematical Analysis, Machine Learning, AI**
+- 🌱 I’m currently learning **Linear algebra, Mathematical Analysis, Machine Learning, Agentic AI**
 - 🏫 I'm major in **Mathematics**
 
 # Tech Stack
