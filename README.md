@@ -1,3 +1,9 @@
+<div align=center>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hongkyu%20Koh&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Github&descAlignY=51&descAlign=62)
+
+</div>
+
 ## Hi there 👋
 - 🌱 I’m currently learning **Linear algebra, Mathematical Analysis, Reinforcement Learning, Agentic AI**
 - 🏫 I'm major in **Mathematics**
