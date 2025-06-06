@@ -26,7 +26,7 @@
 
 </div>
 
-
+<br>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=issac1102)](https://solved.ac/issac1102)
@@ -50,16 +50,16 @@
     </thead>
     <tbody>
             <tr>
-        <td>Capstone Project Research 2nd Award (캡스톤 최우수상)</td>
-        <td>HUFS Data Analysis Academy (DAT), HUFS School of Economics and Business (한국외국어대학교 경상대학)</td>
+        <td>Capstone Project Research 2nd Award <br>(캡스톤 최우수상)</td>
+        <td>HUFS Data Analysis Academy (DAT), HUFS School of Economics and Business<br>(한국외국어대학교 경상대학)</td>
         <td>2025.06.05</td>
-        <td>LangChain-based PDF Analysis and Intelligent Quiz Generation System(LangChain 기반 PDF 분석 및 지능형 퀴즈 생성 시스템)</td>
+        <td>LangChain-based PDF Analysis and Intelligent Quiz Generation System<br>(LangChain 기반 PDF 분석 및 지능형 퀴즈 생성 시스템)</td>
       </tr>
       <tr>
         <td>2nd Award (최우수상)</td>
-        <td>HUFS Institute for Educational Innovation(한국외국어대학교 교육혁신원장)</td>
+        <td>HUFS Institute for Educational Innovation<br>(한국외국어대학교 교육혁신원장)</td>
         <td>2025.02.13</td>
-        <td>Developed an AI chatbot for safe walking routes in Dongdaemun-gu based on streetlight data(가로등 기반 동대문구 안심귀갓길 AI chatbot)</td>
+        <td>Developed an AI chatbot for safe walking routes in Dongdaemun-gu based on streetlight data<br>(가로등 기반 동대문구 안심귀갓길 AI chatbot)</td>
       </tr>
       <tr>
         <td>Semester High Honors </td>
