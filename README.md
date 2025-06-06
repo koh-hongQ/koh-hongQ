@@ -8,7 +8,8 @@
 - 🌱 I’m currently learning **Linear algebra, Mathematical Analysis, Reinforcement Learning, Agentic AI**
 - 🏫 I'm major in **Mathematics**
 
-# Tech Stack
+
+- **Skills**
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
@@ -26,7 +27,7 @@
 </div>
 
 
-  
+- **BOJ** 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=issac1102)](https://solved.ac/issac1102)
 
@@ -61,10 +62,10 @@
         <td>Developed an AI chatbot for safe walking routes in Dongdaemun-gu based on streetlight data(가로등 기반 동대문구 안심귀갓길 AI chatbot)</td>
       </tr>
       <tr>
-        <td>Semester High Honors (성적장학금)</td>
+        <td>Semester High Honors </td>
         <td>HUFS (한국외국어대학교)</td>
         <td>2024 - 2 Semester</td>
-        <td>Ranked first in the department as a sophomore(2학년 학과 수석)</td>
+        <td>Ranked first in the department as a sophomore</td>
       </tr>
     </tbody>
   </table>
