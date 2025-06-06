@@ -37,6 +37,7 @@
  
 <details>
   <summary><h3>🏆 Awards & Honors </h3></summary>
+  <div align="center">
   <table>
     <thead>
       <tr>
@@ -53,7 +54,6 @@
         <td>2025.06.05</td>
         <td>LangChain-based PDF Analysis and Intelligent Quiz Generation System(LangChain 기반 PDF 분석 및 지능형 퀴즈 생성 시스템)</td>
       </tr>
-
       <tr>
         <td>2nd Award (최우수상)</td>
         <td>HUFS Institute for Educational Innovation(한국외국어대학교 교육혁신원장)</td>
@@ -66,8 +66,6 @@
         <td>2024 - 2 Semester</td>
         <td>Ranked first in the department as a sophomore(2학년 학과 수석)</td>
       </tr>
-   
-
     </tbody>
   </table>
 
