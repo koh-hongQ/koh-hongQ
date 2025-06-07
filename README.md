@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hongkyu%20Koh&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Github&descAlignY=51&descAlign=62)
 
-</div>
+</div> 
 
 ## Hi there 👋
 - 🌱 I’m currently learning **Linear algebra, Mathematical Analysis, Reinforcement Learning, Agentic AI**
@@ -34,41 +34,3 @@
 - **git status**
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koh-hongQ&show_icons=true&theme=radical)
-
- 
-<details>
-  <summary><h3>🏆 Awards & Honors </h3></summary>
-  <div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th>Award</th>
-        <th>Issued by</th>
-        <th>Date</th>
-        <th>Details/Location</th>
-      </tr>
-    </thead>
-    <tbody>
-            <tr>
-        <td>Capstone Project Research 2nd Award <br>(캡스톤 최우수상)</td>
-        <td>HUFS Data Analysis Academy (DAT), HUFS School of Economics and Business<br>(한국외국어대학교 경상대학)</td>
-        <td>2025.06.05</td>
-        <td>LangChain-based PDF Analysis and Intelligent Quiz Generation System<br>(LangChain 기반 PDF 분석 및 지능형 퀴즈 생성 시스템)</td>
-      </tr>
-      <tr>
-        <td>2nd Award (최우수상)</td>
-        <td>HUFS Institute for Educational Innovation<br>(한국외국어대학교 교육혁신원장)</td>
-        <td>2025.02.13</td>
-        <td>Developed an AI chatbot for safe walking routes in Dongdaemun-gu based on streetlight data<br>(가로등 기반 동대문구 안심귀갓길 AI chatbot)</td>
-      </tr>
-      <tr>
-        <td>Semester High Honors </td>
-        <td>HUFS (한국외국어대학교)</td>
-        <td>2024 - 2 Semester</td>
-        <td>Ranked first in the department as a sophomore</td>
-      </tr>
-    </tbody>
-  </table>
-
-</details>
-
