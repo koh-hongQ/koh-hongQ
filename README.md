@@ -15,6 +15,8 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
+                      <img src="https://img.shields.io/badge/Django-150458?style=flat&logo=Django&logoColor=white" alt="Django">
+                    <img src="https://img.shields.io/badge/Css-150458?style=flat&logo=Css&logoColor=white" alt="Css">
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white">
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
@@ -23,8 +25,7 @@
                    <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini">
                     <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white" alt="NumPy">
                     <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white" alt="Pandas">
-                    <img src="https://img.shields.io/badge/Django-150458?style=flat&logo=Django&logoColor=white" alt="Django">
-                    <img src="https://img.shields.io/badge/Css-150458?style=flat&logo=Css&logoColor=white" alt="Css">
+
 
 </div>
 
