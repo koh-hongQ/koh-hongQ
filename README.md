@@ -5,7 +5,6 @@
 </div> 
 
 ## Hi there 👋
-- 🌱 I’m currently learning **Linear algebra, Mathematical Analysis, Reinforcement Learning, Agentic AI**
 - 🏫 I'm major in **Mathematics**
 
 
